@@ -8,13 +8,13 @@ You should review volumes, configuration, modules & tuning parameters before usi
 
 ## Source Images
 
-* [alfresco-content-repository-community:6.1.2-ga](https://hub.docker.com/r/alfresco/alfresco-content-repository-community)
-* [alfresco-share:6.1.0](https://hub.docker.com/r/alfresco/alfresco-share)
-* [alfresco-search-services:1.3.0.1](https://hub.docker.com/r/alfresco/alfresco-search-services)
-* [alfresco-activemq:5.15.6](https://hub.docker.com/r/alfresco/alfresco-activemq)
-* [alfresco-content-app:latest](https://hub.docker.com/r/alfresco/alfresco-content-app/)
+* [alfresco-content-repository-community:6.1.2-ga](https://hub.docker.com/repository/docker/andresad/alfresco-content-repository-community)
+* [alfresco-share:6.1.0](https://hub.docker.com/repository/docker/andresad/alfresco-share)
+* [alfresco-search-services:1.3.0.1](https://hub.docker.com/repository/docker/andresad/alfresco-search-services)
+* [alfresco-activemq:5.15.6](https://hub.docker.com/repository/docker/andresad/alfresco-activemq)
+* [alfresco-content-app:latest](https://hub.docker.com/repository/docker/andresad/alfresco-content-app)
 * **alfresco-api-explorer 6.1.0**: Custom build
-* [nginx:stable-alpine](https://hub.docker.com/_/nginx)
+* [nginx:stable-alpine](https://hub.docker.com/repository/docker/andresad/nginx)
 * [postgres:10.1](https://hub.docker.com/_/postgres)
 
 ## Volumes
