@@ -29,7 +29,7 @@ config
 └── solrconfig.xml        >>> Cross locale SOLR Configuration
 logs
 └── solr
-    └── log4j.properties
+    └── log4j.properties 
 ```
 
 **Data** wil be persisted automatically in `data` folder. Once launched, Docker will create three subfolders for following services:
