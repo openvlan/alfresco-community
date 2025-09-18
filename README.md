@@ -20,7 +20,7 @@ You should review volumes, configuration, modules & tuning parameters before usi
 ## Volumes 
 
 Three `volume` directories are available for configuration, data and log files.
-By default only configuration and SOLR log configuration is provided.
+By default only configuration and SOLR log configuration is provided. 
 
 ```bash
 config
